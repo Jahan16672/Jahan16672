@@ -1,4 +1,5 @@
 # Hello, I'm Samil Jahan
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/samil-jahan-968458244/)
 
 **Cybersecurity Student @ Swinburne University**  
 _Bachelor of Computer Science – Major in Cyber Security_

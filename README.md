@@ -8,9 +8,9 @@ Focused on **Network Security**, **Vulnerability Assessment**, and **Threat Dete
 
 ---
 
-## 🎯 Objective
+### 🎯 Objective
 
-To join a dynamic Security Operations Center (SOC) as a **Tier 1 Analyst**, applying my hands-on experience in system monitoring, threat hunting, and incident response to help secure organizational infrastructure.
+Aspiring SOC Analyst with a strong interest in blue team operations and network security. Currently building hands-on skills in threat detection, Active Directory, and network administration, aiming to contribute to a Security Operations Center as a Tier 1 Analyst.
 
 ---
 

@@ -1,76 +1,98 @@
-👋 Hello, I'm Samil Jahan
-Cybersecurity Student at Swinburne University
-Focused on Network Security • Vulnerability Assessment • Threat Detection
+# 👋 Hello, I'm Samil Jahan
 
-I am currently pursuing a Bachelor of Computer Science (Cyber Security major) at Swinburne University, driven by a strong passion for securing digital environments. My journey started with curiosity about how software and networks work, and evolved into a specialized path in cyber defense.
+**Cybersecurity Student @ Swinburne University**  
+_Bachelor of Computer Science – Major in Cyber Security_
 
-With hands-on experience in project management, incident response, and vulnerability assessments, I bridge academic theory with real-world cybersecurity practice. I work confidently across Linux systems, Active Directory domains, and cloud environments, and regularly engage in ethical hacking labs and system hardening exercises.
+Focused on **Network Security**, **Vulnerability Assessment**, and **Threat Detection**
 
-🎯 Objective
-To contribute to a Security Operations Center (SOC) team as a Tier 1 Analyst, leveraging my skills in monitoring, automation, and vulnerability management to detect and mitigate cyber threats efficiently.
+---
 
-🧠 Core Skills
-Skill Area	Project / Context
-SIEM & Log Analytics	Splunk Home Lab, Chronicle Security
-Incident Detection & Response	Detection Lab (Brute Force via Crowbar)
-Security Automation (SOAR)	SOC Automation Project with Shuffle
-Vulnerability Assessment	SafeLine Web Application Firewall Testing
-Active Directory & GPO	Home Lab: Domain Controller, Group Strategy
-Backend & Frontend Development	Java/Python Web Interfaces for Security Tools
+## 🎯 Objective
 
-🧰 Tools & Technologies
-🔐 Security & Monitoring
+To join a dynamic Security Operations Center (SOC) as a **Tier 1 Analyst**, applying my hands-on experience in system monitoring, threat hunting, and incident response to help secure organizational infrastructure.
 
-Splunk, Chronicle, Suricata, Wazuh
+---
 
-Shuffle SOAR, TheHive, Cortex
+## 🧠 Core Skills
 
-TryHackMe (Cybersecurity 101 Track)
+| Skill Area | Project / Context |
+|------------|-------------------|
+| **SIEM & Log Analytics** | Splunk Home Lab, Chronicle Security |
+| **Incident Detection & Response** | Detection Lab (Brute Force via Crowbar) |
+| **Security Automation (SOAR)** | SOC Automation Project using Shuffle |
+| **Vulnerability Assessment** | SafeLine WAF Evaluation |
+| **Active Directory & GPO** | Home Lab – Domain Controller & Group Strategy |
+| **Software Development** | Java/Python Web Tools & API Integration |
 
-💻 Systems & Network
+---
 
-Linux (Ubuntu, Kali), Windows Server (AD + DNS + GPO)
+## 🧰 Tools & Technologies
 
-Wireshark, Zeek, Nmap, Crowbar
+### 🔐 Security & Monitoring
+- **Splunk**, Chronicle, Suricata, Wazuh  
+- **Shuffle SOAR**, TheHive, Cortex  
+- TryHackMe (Cybersecurity 101 Path)
 
-SQL sanitization and injection testing
+### 💻 Systems & Networking
+- Kali Linux, Ubuntu, Windows Server  
+- Active Directory, Group Policy Management  
+- Wireshark, Zeek, Nmap, Crowbar
 
-🌐 Web & App Security
+### 🌐 Web & Application Security
+- SafeLine Web Application Firewall  
+- Input validation, HTTP header analysis  
+- SQL sanitization and injection testing
 
-SafeLine WAF implementation and configuration
+### 💻 Programming
+- **Java** (Spring Boot), **Python** (Flask), SQL  
+- HTML/CSS (basic for frontend – not using JS/React)
 
-HTTP/HTTPS header inspection, input validation techniques
+### ☁️ Cloud & Identity
+- Microsoft Azure (AZ-900 Certified)  
+- Google Cybersecurity Certificate  
+- Active Directory, User Roles & Access Control (RBAC)
 
-🧑‍💻 Development
+---
 
-Java (Spring Boot), Python (Flask), SQL
+## 🏅 Certifications
 
-Frontend: HTML, CSS (basic) — Not React or JS
+- [✔️ Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
+- [✔️ Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)
+- [✔️ TryHackMe Cybersecurity 101](https://tryhackme.com/)
 
-☁️ Cloud & Identity
+---
 
-Azure Fundamentals Certified (AZ-900)
+## 🔬 Featured Projects
 
-Google Cybersecurity Certificate
+### 🔹 Detection Lab – Brute Force & Telemetry Detection
 
-Microsoft Active Directory & Group Policy hands-on practice
+Simulated RDP brute-force attack using **Crowbar** on Kali Linux and detected activity through **Splunk**. Generated custom alerts and analyzed logs using MITRE ATT&CK-aligned techniques with **Atomic Red Team**.
 
-🏆 Certifications
-✅ Microsoft AZ-900: Azure Fundamentals
+🔗 _Technologies used_: Kali Linux, Windows Server, Splunk, Atomic Red Team
 
-✅ Google Cybersecurity Certificate
+---
 
-✅ TryHackMe Cybersecurity 101
+### 🔹 SOC Automation Project – SOAR + Case Management
 
-🔬 Featured Projects
-1. Detection Lab – Brute Force Detection + SIEM Correlation
-Built a home lab to simulate brute-force RDP attacks using Kali Linux and Crowbar. Collected telemetry with Splunk and analyzed failed login patterns to generate alerts. Integrated Atomic Red Team for adversary emulation.
+Created a mini SOC with **TheHive**, **Shuffle**, and **Cortex**. Ingested alert data, enriched indicators with Cortex analyzers, and automated case workflows. Developed Python scripts to handle threat intelligence lookups.
 
-2. SOC Automation Project – TheHive, Shuffle, Cortex
-Designed a working SOC workflow using open-source tools. Automated incident ingestion and enrichment with Cortex analyzers, integrated case management with TheHive, and executed playbooks via Shuffle SOAR.
+🔗 _Tools_: Shuffle SOAR, TheHive, Cortex, Python
 
-3. SafeLine WAF Evaluation
-Tested SafeLine Web Application Firewall across simulated web services. Configured rule sets, monitored block/allow logs, and identified gaps in default signature coverage. Conducted manual input fuzzing and SQLi tests.
+---
 
-4. Active Directory + Group Policy Management
-Configured a Windows Server Domain Controller in a home lab. Set up OUs, group strategies, password policies, login scripts, and firewall rules using GPO to enforce organizational compliance.
+### 🔹 SafeLine WAF Evaluation
+
+Configured and evaluated **SafeLine Web Application Firewall** in a controlled lab. Performed manual testing with fuzzing and SQL injection payloads. Monitored WAF behavior and adjusted rule sets for better coverage.
+
+---
+
+### 🔹 Active Directory & Group Policy Lab
+
+Built and maintained a Windows Server AD environment. Managed users, enforced security policies through **GPO**, and configured firewall, login scripts, and password compliance.
+
+---
+
+## 📫 Let’s Connect
+
+If you're looking for a passionate entry-level SOC Analyst with hands-on experience and a strong foundation in cybersecurity, feel free to reach out via GitHub or LinkedIn.
+

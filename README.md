@@ -92,8 +92,3 @@ Configured and evaluated **SafeLine Web Application Firewall** in a controlled l
 Built and maintained a Windows Server AD environment. Managed users, enforced security policies through **GPO**, and configured firewall, login scripts, and password compliance.
 
 ---
-
-## 📫 Let’s Connect
-
-If you're looking for a passionate entry-level SOC Analyst with hands-on experience and a strong foundation in cybersecurity, feel free to reach out via GitHub or LinkedIn.
-

@@ -8,13 +8,13 @@ Focused on **Network Security**, **Vulnerability Assessment**, and **Threat Dete
 
 ---
 
-### 🎯 Objective
+##  Objective
 
 Aspiring SOC Analyst with a strong interest in blue team operations and network security. Currently building hands-on skills in threat detection, Active Directory, and network administration, aiming to contribute to a Security Operations Center as a Tier 1 Analyst.
 
 ---
 
-## 🧠 Core Skills
+##  Core Skills
 
 | Skill Area | Project / Context |
 |------------|-------------------|
@@ -27,35 +27,35 @@ Aspiring SOC Analyst with a strong interest in blue team operations and network 
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
-### 🔐 Security & Monitoring
+###  Security & Monitoring
 - **Splunk**, Chronicle, Suricata, Wazuh  
 - **Shuffle SOAR**, TheHive, Cortex  
 - TryHackMe (Cybersecurity 101 Path)
 
-### 💻 Systems & Networking
+###  Systems & Networking
 - Kali Linux, Ubuntu, Windows Server  
 - Active Directory, Group Policy Management  
 - Wireshark, Zeek, Nmap, Crowbar
 
-### 🌐 Web & Application Security
+###  Web & Application Security
 - SafeLine Web Application Firewall  
 - Input validation, HTTP header analysis  
 - SQL sanitization and injection testing
 
-### 💻 Programming
+###  Programming
 - **Java** (Spring Boot), **Python** (Flask), SQL  
 - HTML/CSS (basic for frontend – not using JS/React)
 
-### ☁️ Cloud & Identity
+###  Cloud & Identity
 - Microsoft Azure (AZ-900 Certified)  
 - Google Cybersecurity Certificate  
 - Active Directory, User Roles & Access Control (RBAC)
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 
 - [✔️ Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
 - [✔️ Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)
@@ -63,7 +63,7 @@ Aspiring SOC Analyst with a strong interest in blue team operations and network 
 
 ---
 
-## 🔬 Featured Projects
+##  Featured Projects
 
 ### 🔹 Detection Lab – Brute Force & Telemetry Detection
 

@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/samil-jahan-968458244/)
 
 **Cybersecurity Student @ Swinburne University**  
-_Bachelor of Computer Science – Major in Cyber Security_
+__Bachelor of Computer Science – Major in Cyber Security__
 
 Focused on **Network Security**, **Vulnerability Assessment**, and **Threat Detection**
 

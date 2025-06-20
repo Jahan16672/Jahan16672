@@ -23,6 +23,7 @@ Aspiring SOC Analyst with a strong interest in blue team operations and network 
 | **Security Automation (SOAR)** | SOC Automation Project using Shuffle |
 | **Vulnerability Assessment** | Web Application Firewall Home Lab using SafeLine WAF |
 | **Active Directory & GPO** | Home Lab – Domain Controller & Group Strategy |
+| **Administrative Task** | Active Directory Home Lab - Administrative Tasks Guide |
 
 ---
 

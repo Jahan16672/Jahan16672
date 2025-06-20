@@ -21,9 +21,8 @@ Aspiring SOC Analyst with a strong interest in blue team operations and network 
 | **SIEM & Log Analytics** | Active Directory Brute Force Detection Home Lab |
 | **Incident Detection & Response** | Active Directory Brute Force Detection Home Lab |
 | **Security Automation (SOAR)** | SOC Automation Project using Shuffle |
-| **Vulnerability Assessment** | SafeLine WAF Evaluation |
+| **Vulnerability Assessment** | Web Application Firewall Home Lab using SafeLine WAF |
 | **Active Directory & GPO** | Home Lab – Domain Controller & Group Strategy |
-| **Software Development** | Java/Python Web Tools & API Integration |
 
 ---
 
@@ -65,7 +64,7 @@ Aspiring SOC Analyst with a strong interest in blue team operations and network 
 
 ##  Featured Projects
 
-### 🔹 Detection Lab – Brute Force & Telemetry Detection
+### 🔹  Active Directory Brute Force Detection Home Lab
 
 Simulated RDP brute-force attack using **Crowbar** on Kali Linux and detected activity through **Splunk**. Generated custom alerts and analyzed logs using MITRE ATT&CK-aligned techniques with **Atomic Red Team**.
 

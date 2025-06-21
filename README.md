@@ -18,8 +18,8 @@ Aspiring SOC Analyst with a strong interest in blue team operations and network 
 
 | Skill Area | Project / Context |
 |------------|-------------------|
-| **SIEM & Log Analytics** | Active Directory Brute Force Detection Home Lab |
-| **Incident Detection & Response** | Active Directory Brute Force Detection Home Lab |
+| **SIEM & Log Analytics** | Brute Force Detection Home Lab |
+| **Incident Detection & Response** | Brute Force Detection Home Lab |
 | **Security Automation (SOAR)** | SOC Automation Project using Shuffle |
 | **Vulnerability Assessment** | Web Application Firewall Home Lab using SafeLine WAF |
 | **Active Directory & GPO** | Home Lab – Domain Controller & Group Strategy |

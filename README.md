@@ -4,8 +4,6 @@
 **Cybersecurity Student @ Swinburne University**  
 __Bachelor of Computer Science – Major in Cyber Security__
 
-Focused on **Network Security**, **Vulnerability Assessment**, and **Threat Detection**
-
 ---
 
 ##  Objective
@@ -20,7 +18,6 @@ Aspiring SOC Analyst with a strong interest in blue team operations and network 
 |------------|-------------------|
 | **SIEM & Log Analytics** | Brute Force Detection Home Lab |
 | **Incident Detection & Response** | Brute Force Detection Home Lab |
-| **Security Automation (SOAR)** | SOC Automation Project using Shuffle |
 | **Vulnerability Assessment** | Web Application Firewall Home Lab using SafeLine WAF |
 | **Active Directory & GPO** | Home Lab – Domain Controller & Group Strategy |
 | **Administrative Task** | Active Directory Home Lab - Administrative Tasks Guide |
@@ -46,7 +43,7 @@ Aspiring SOC Analyst with a strong interest in blue team operations and network 
 
 ###  Programming
 - **Java** (Spring Boot), **Python** (Flask), SQL  
-- HTML/CSS (basic for frontend – not using JS/React)
+- HTML/CSS
 
 ###  Cloud & Identity
 - Microsoft Azure (AZ-900 Certified)  
@@ -71,14 +68,6 @@ Aspiring SOC Analyst with a strong interest in blue team operations and network 
 Simulated RDP brute-force attack using **Crowbar** on Kali Linux and detected activity through **Splunk**. Generated custom alerts and analyzed logs using MITRE ATT&CK-aligned techniques with **Atomic Red Team**.
 
 🔗 _Technologies used_: Kali Linux, Windows Server, Splunk, Atomic Red Team
-
----
-
-### 🔹 SOC Automation Project – SOAR + Case Management
-
-Created a mini SOC with **TheHive**, **Shuffle**, and **Cortex**. Ingested alert data, enriched indicators with Cortex analyzers, and automated case workflows. Developed Python scripts to handle threat intelligence lookups.
-
-🔗 _Tools_: Shuffle SOAR, TheHive, Cortex, Python
 
 ---
 

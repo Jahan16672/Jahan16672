@@ -57,9 +57,10 @@ Aspiring SOC Analyst with a strong interest in blue team operations and network 
 
 ##  Certifications
 
-- [✔️ Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
-- [✔️ Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)
-- [✔️ TryHackMe Cybersecurity 101](https://tryhackme.com/)
+- [✔️ Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/SamilJahan-3200/C3B85B46C42045C0?sharingId=ED3FEDFCF7E47831)
+- [✔️ Google Cybersecurity Certificate](https://www.credly.com/badges/6445e6d4-7cad-473e-b7af-9075368f525f/public_url)
+- [✔️ TryHackMe Cybersecurity 101](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EKY3FUVN7O.pdf)
+- [✔️ CompTIA Network+ ce Certification](https://www.credly.com/badges/a9ff3b4b-73c6-4516-8808-cd8b0810c659/public_url)
 
 ---
 
